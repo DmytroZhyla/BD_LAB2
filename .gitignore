@@ -1,0 +1,4 @@
+postgres.ini.secure
+*.pyc
+*.sh
+*.sql
